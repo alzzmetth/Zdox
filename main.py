@@ -28,7 +28,13 @@ DB_PATHS = [
     "database/jayapura/database6_jayapura1.json",
     "database/jayapura/database6_jayapura2.json",
     "database/bandung/database7_bandung1.json",
-    "database/bandung/database7_bandung2.json"  
+    "database/bandung/database7_bandung2.json",
+    "database/palembang/database8_palembang1.json",
+    "database/palembang/database8_palembang2.json",
+    "database/makassar/database9_makassar1.json",
+    "database/makassar/database9_makassar2.json",
+    "database/pontianak/database10_pontianak1.json",
+    "database/pontianak/database10_pontianak2.json"  # <-- tambahkan ini
 ]
 
 def tampilkan_header():
