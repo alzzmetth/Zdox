@@ -34,8 +34,10 @@ DB_PATHS = [
     "database/makassar/database9_makassar1.json",
     "database/makassar/database9_makassar2.json",
     "database/pontianak/database10_pontianak1.json",
-    "database/pontianak/database10_pontianak2.json"  # <-- tambahkan ini
+    "database/pontianak/database10_pontianak2.json",
+    "database/ambon/database11_ambon1.json"  # <-- database baru
 ]
+
 
 def tampilkan_header():
     """ASCII Art ELANG dengan warna biru"""
