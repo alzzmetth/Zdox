@@ -35,7 +35,8 @@ DB_PATHS = [
     "database/makassar/database9_makassar2.json",
     "database/pontianak/database10_pontianak1.json",
     "database/pontianak/database10_pontianak2.json",
-    "database/ambon/database11_ambon1.json"  # <-- database baru
+    "database/ambon/database11_ambon1.json" , 
+    "database/bali/database12_bali1.json" # <-- database baru
 ]
 
 
